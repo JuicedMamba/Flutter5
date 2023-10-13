@@ -1,3 +1,27 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uploading Network Imaging.mp4…
+
+
+
+
+
+
+
+
+
 📸🌐 App Description: Real-Time Image Fetcher 🌐📸
 
 Immerse yourself in the ever-evolving world of imagery with our Real-Time Image Fetcher app, showcasing your proficiency in pulling dynamic images from the web on the fly! 🚀
@@ -23,8 +47,6 @@ With Real-Time Image Fetcher, you can demonstrate your expertise in creating a d
 Your app, your gateway to the world of limitless imagery – because the internet's visual treasure is just a tap away! 🌐🖼️🌟
 
 
-
-https://github.com/JuicedMamba/Flutter5/assets/141129392/614c8041-a1f0-4041-b276-d1f3c0847ab9
 
 
 
